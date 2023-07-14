@@ -15,3 +15,5 @@ Shutdown Timer is a small and easy-to-use tool to countdown timer for shutting d
 ##Requirements
 * Windows 7 or later
 * .NET Framework 4.5 or later
+  
+![image](https://github.com/kimmartelolives/ura-shutdown/assets/61133176/8d589b53-52e5-44cb-affd-e1babc51d29c)
