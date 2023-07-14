@@ -1,4 +1,4 @@
-# ShutdownTimer
+# ShutdownTimer (Modified)
 A mini-tool for shutting down computer
 
 Shutdown Timer is a small and easy-to-use tool to countdown timer for shutting down your computer.
