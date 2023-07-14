@@ -1,0 +1,10 @@
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\bin\Debug\ShutdownTimer.exe.config
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\bin\Debug\ShutdownTimer.exe
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\bin\Debug\ShutdownTimer.pdb
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.frmAbout.resources
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.frmMain.resources
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.Properties.Resources.resources
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.csproj.GenerateResource.cache
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.exe
+C:\Users\kimma\Desktop\ShutdownTimer-master\ShutdownTimer\obj\Debug\ShutdownTimer.pdb
